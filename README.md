@@ -1,6 +1,6 @@
 # MailKitNetSmtp
 
-.Net6 Class Library MailKitNetSmtp
+.Net8 Class Library MailKitNetSmtp
 
 Este el proyecto de Visual Studio 2022 con el que he creado la libreria que uso en el ejemplo de PowerBuilder pbMailKit para enviar e-mails desde PowerBuilder:
 
